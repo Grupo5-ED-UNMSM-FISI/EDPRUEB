@@ -1,0 +1,33 @@
+a {
+    color:red;} 
+
+    ul{
+        padding: 0 0;
+        margin: 0 0;   
+
+    }
+
+    li{
+
+        padding: 0 0;
+        margin: 0 0;   
+       
+        
+    }
+
+    .casa-numero{
+background-color: sandybrown;
+
+    }
+
+
+    section#alquileres article.casa-numero{
+        background-color: pink;
+        
+            }
+
+
+    #menu-principal{
+        background-color: springgreen
+
+    } 
